@@ -1,0 +1,8 @@
+{
+  "name": "Remix Garudaya - Jurnal Ilmiah Garudaya",
+  "description": "Portal publikasi ilmiah resmi Garudaya yang mewadahi penelitian berkualitas dalam sains, teknologi, sosial, humaniora, pendidikan, bisnis, ekonomi, dan manajemen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
